@@ -202,6 +202,34 @@
 | 01435 | 0              | 0                | 0              | 0              | 0              | 0                                      | -30                          | 5               | 3          | 18                              | 3          | 5          | 4          | 5                | 15            | 0           | 3              | 3                              | 8                          | 50.4       | 20.4  | 准时提交 |
 | 00139 | 2              | 3                | 4              | 4              | 4              | 4                                      | 21                           | 5               | 3          | 16                              | 2          | 2.5        | 4          | 5                | 0             | 0           | 3              | 2                              | 6                          | 33.95      | 54.95 | 准时提交 |
 
+### 优秀作业
+
+#### 按总分排名
+
+https://www.cnblogs.com/tarsss/p/14488522.html
+
+https://www.cnblogs.com/cyl1221/p/14481822.html
+
+https://www.cnblogs.com/Yuuuu/p/14459795.html
+
+#### 按博客分排名
+
+https://www.cnblogs.com/SakuChyan/p/14477385.html
+
+https://www.cnblogs.com/tarsss/p/14488522.html
+
+https://www.cnblogs.com/railgunSE/p/14488723.html
+
+#### 按程序分排名
+
+https://www.cnblogs.com/zhlforreal/p/14466057.html
+
+https://www.cnblogs.com/cyl1221/p/14481822.html
+
+https://www.cnblogs.com/c---jx/p/14460056.html
+
+https://www.cnblogs.com/tarsss/p/14488522.html
+
 ### 抄袭作业
 
 #### 按照作业提交规则中“作业抄袭：当助教发现两篇博客**文字/图片/代码**过分相似时，判定两篇博客都为**抄袭**，**倒扣该次作业满分**；”给予抄袭同学任务一得分-30分的处理
@@ -229,7 +257,7 @@
 
 ![](https://img2020.cnblogs.com/blog/2271049/202103/2271049-20210321170821092-4042236.png)
 
-以下公布历次成绩
+### 以下公布历次成绩
 
 | 学号  | 初始 | 寒假一 | 寒假二 | 总分   |
 | ----- | ---- | ------ | ------ | ------ |
