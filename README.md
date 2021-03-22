@@ -151,7 +151,7 @@
 | 01239 | 2              | 1.5              | 2              | 2              | 0              | 4                                      | 11.5                         | 5               | 2          | 15                              | 2          | 5          | 3          | 4.5              | 0             | 0           | 3              | 2                              | 5                          | 32.55      | 44.05 | 准时提交 |
 | 01301 | 2              | 1                | 4              | 6              | 2              | 3                                      | 18                           | 5               | 2          | 16                              | 1          | 5          | 3          | 5                | 0             | 0           | 3              | 3                              | 5                          | 33.6       | 51.6  | 准时提交 |
 | 01303 | 2              | 1                | 4              | 4              | 6              | 0                                      | 17                           | 5               | 2          | 13                              | 2          | 3.5        | 3          | 5                | 0             | 0           | 3              | 2                              | 5                          | 30.45      | 47.45 | 准时提交 |
-| 01304 | 2              | 3                | 7              | 7              | 7              | 0                                      | 26                           | 5               | 3          | 18                              | 3          | 5          | 3          | 4.5              | 24            | 0           | 3              | 4                              | 6                          | 54.95      | 80.95 | 准时提交 |
+| 01304 | 2        | 3         | 7        | 7        | 7        | 5                        | 30               | 5             | 3      | 18                | 3      | 5      | 3      | 4.5       | 24       | 0       | 3        | 4                | 6              | 54.95 | 84.95 | 准时提交 |
 | 01306 | 2              | 3.5              | 4              | 6              | 6              | 3                                      | 24.5                         | 5               | 2          | 16                              | 2          | 3.5        | 2          | 4.5              | 30            | 10          | 3              | 3                              | 7                          | 61.6       | 86.1  | 准时提交 |
 | 01307 | 2              | 0                | 6              | 6              | 6              | 0                                      | 20                           | 5               | 3          | 14                              | 3          | 4          | 3          | 5                | 0             | 0           | 3              | 3                              | 6                          | 34.3       | 54.3  | 准时提交 |
 | 01308 | 2              | 4                | 6              | 6              | 6              | 3                                      | 27                           | 5               | 3          | 17                              | 2          | 4          | 4          | 5                | 30            | 10          | 3              | 3                              | 6                          | 64.4       | 91.4  | 准时提交 |
@@ -202,32 +202,23 @@
 | 01435 | 0              | 0                | 0              | 0              | 0              | 0                                      | -30                          | 5               | 3          | 18                              | 3          | 5          | 4          | 5                | 15            | 0           | 3              | 3                              | 8                          | 50.4       | 20.4  | 准时提交 |
 | 00139 | 2              | 3                | 4              | 4              | 4              | 4                                      | 21                           | 5               | 3          | 16                              | 2          | 2.5        | 4          | 5                | 0             | 0           | 3              | 2                              | 6                          | 33.95      | 54.95 | 准时提交 |
 
-### 优秀作业
+###优秀作业
 
 #### 按总分排名
-
-
-https://www.cnblogs.com/cyl1221/p/14481822.html
-
-https://www.cnblogs.com/Yuuuu/p/14459795.html
-
-https://www.cnblogs.com/aaagx/p/14484005.html
+[AlexChan](https://www.cnblogs.com/cyl1221/p/14481822.html)
+[Yi Tiao Yu](https://www.cnblogs.com/Yuuuu/p/14459795.html)
+[aaagx-BLOG](https://www.cnblogs.com/aaagx/p/14484005.html)
 
 #### 按博客分排名
-
-https://www.cnblogs.com/SakuChyan/p/14477385.html
-
-https://www.cnblogs.com/railgunSE/p/14488723.html
-
-https://www.cnblogs.com/cj-whales/p/14488427.html
+[吴铠嘉](https://www.cnblogs.com/FZU-Bobby/p/14472002.html)
+[SakuChyan](https://www.cnblogs.com/SakuChyan/p/14477385.html)
+[木子来井](https://www.cnblogs.com/railgunSE/p/14488723.html)
+[淡水蓝鲸](https://www.cnblogs.com/cj-whales/p/14488427.html)
 
 #### 按程序分排名
-
-https://www.cnblogs.com/zhlforreal/p/14466057.html
-
-https://www.cnblogs.com/cyl1221/p/14481822.html
-
-https://www.cnblogs.com/c---jx/p/14460056.html
+[DumbassL](https://www.cnblogs.com/zhlforreal/p/14466057.html)
+[AlexChan](https://www.cnblogs.com/cyl1221/p/14481822.html)
+[AAAdmin](https://www.cnblogs.com/c---jx/p/14460056.html)
 
 ### 抄袭作业
 
@@ -297,7 +288,7 @@ https://www.cnblogs.com/c---jx/p/14460056.html
 | 01239 | 0    | 93     | 44.05  | 137.05 |
 | 01301 | 0    | 86     | 51.6   | 137.6  |
 | 01303 | 0    | 86     | 47.45  | 133.45 |
-| 01304 | 0    | 95     | 80.95  | 175.95 |
+| 01304 | 0    | 95   | 84.95 | 179.95 |
 | 01306 | 0    | 81     | 86.1   | 167.1  |
 | 01307 | 0    | 96     | 54.3   | 150.3  |
 | 01308 | 0    | 96     | 91.4   | 187.4  |
